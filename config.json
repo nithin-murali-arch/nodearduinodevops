@@ -1,0 +1,7 @@
+{
+    "arduinoBase": "http://192.168.2.12",
+    "LEDPort": 13,
+    "buzzerPort": 7,
+    "pollURL": "http://nodevideoapp.herokuapp.com",
+    "pollPort": 80
+}
